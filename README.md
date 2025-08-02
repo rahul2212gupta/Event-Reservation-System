@@ -135,6 +135,5 @@ This project was developed under the mentorship of Dr. Ashu Sharma, Department o
 Note:
 This project is intended for academic use. All database architectures, designs, and queries are for demonstration and learning purposes.
 
-You may include schema files, Data Definition Language (DDL) scripts, and sample datasets in the repository for easier reproducibility. If there’s a web interface or code for CRUD operations, mention setup/usage instructions as well.
 
 THANK YOU!
